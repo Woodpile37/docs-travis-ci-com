@@ -16,11 +16,6 @@ gem 'rake'
 gem 'rdiscount', '>=2.2.0.1'
 gem 'rubocop', group: :test
 
-
-# All of this is for Slate / middleman
-
-gem "middleman", "~> 4.1", ">= 4.1.11"
-
 # For syntax highlighting
 gem "middleman-syntax"
 
